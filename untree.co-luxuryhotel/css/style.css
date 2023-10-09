@@ -8,8 +8,8 @@ body {
   font-family: "Roboto", sans-serif;
   background-color: #fff;
   font-weight: 300;
-  color: rgba(0, 0, 0, 0.5);
-  color: #707070;
+  color: yellow;
+  color: #0fbde8;
   line-height: 1.7;
   overflow-x: hidden;
   position: relative;
@@ -233,7 +233,7 @@ a, a:hover {
 
 .untree_co--site-hero .site-hero-contents .sub-text {
   font-size: 20px;
-  color: #fff !important;
+  color: lightblue !important;
   font-size: 22px;
   font-weight: 300;
 }
